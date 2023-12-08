@@ -30,11 +30,11 @@ Hasta hace poco, yo mismo no tenía conocimiento de estas medallas, cursos y cer
 
 ### Descripción
 
-(Aquí puedes escribir una descripción general del SkillBuilder de Amazon)
+Desarrolla habilidades que puedas aplicar de inmediato con cursos de aprendizaje electrónico diseñados por expertos en productos de Google. Aprenda a su propio ritmo y obtenga la certificación de producto de Google.
 
-### Cursos y Certificaciones
+### Enlace
 
-(Lista de cursos y certificaciones disponibles en el SkillBuilder de Amazon)
+[(Lista de cursos y certificaciones disponibles en el SkillShopWithGoogle)](https://skillshop.withgoogle.com/)
 
 ## Microsoft
 
