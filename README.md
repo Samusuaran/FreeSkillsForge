@@ -6,7 +6,7 @@
 
 ¡Hola a todos! Mi nombre es [Daniel Suarez](https://www.credly.com/users/daniel-josue-suarez-quevedo/badges), estudiante de Ingeniería en Informática en Duoc UC, colaborador activo en el Centro de Investigación y Transferencia de Tecnología (CITT).
 
-Cofundador de una empresa de desarrollo de aplicaciones web, en conjunto con mi comapñero [Orlando Tobar](https://www.credly.com/users/orlando-jafet-tobar-diaz/badges). Mi pasión por la tecnología y el aprendizaje continuo me ha llevado a descubrir una serie de recursos educativos valiosos que deseo compartir con ustedes.
+Cofundador de una empresa de desarrollo de aplicaciones web [Quantum Waves Developers](https://quantumwavesdevelopers.000webhostapp.com/), en conjunto con mi comapñero [Orlando Tobar](https://www.credly.com/users/orlando-jafet-tobar-diaz/badges). Mi pasión por la tecnología y el aprendizaje continuo me ha llevado a descubrir una serie de recursos educativos valiosos que deseo compartir con ustedes.
 
 Este repositorio está dedicado a las plataformas de aprendizajes de empresas líderes en tecnología como Amazon, Microsoft, IBM, Cisco y Google. Aquí, encontrarán información detallada sobre las certificaciones, cursos y medallas que estas plataformas ofrecen para ayudarnos a mejorar y validar nuestros conocimientos y habilidades en diversas áreas tecnológicas.
 
