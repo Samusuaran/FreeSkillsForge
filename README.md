@@ -30,21 +30,29 @@ Hasta hace poco, yo mismo no tenía conocimiento de estas medallas, cursos y cer
 
 ### Descripción
 
-Desarrolla habilidades que puedas aplicar de inmediato con cursos de aprendizaje electrónico diseñados por expertos en productos de Google. Aprenda a su propio ritmo y obtenga la certificación de producto de Google.
+Su centro de aprendizaje para desarrollar habilidades en la nube bajo demanda
 
-### Enlace
+### Cursos y Certificaciones
 
-[(Lista de cursos y certificaciones disponibles en el SkillShopWithGoogle)](https://skillshop.withgoogle.com/)
+https://explore.skillbuilder.aws/learn
 
 ## Microsoft
 
 ### Descripción
 
-(Aquí puedes escribir una descripción general del SkillBuilder de Microsoft)
+Desarrolle habilidades que abran puertas. Vea todo lo que puede lograr con documentación, entrenamiento práctico y certificaciones para ayudarle a aprovechar al máximo los productos de Microsoft.
+
+https://learn.microsoft.com/es-mx/
 
 ### Cursos y Certificaciones
 
-(Lista de cursos y certificaciones disponibles en el SkillBuilder de Microsoft)
+Lista de cursos y certificaciones disponibles en la plataforma Learn de Microsoft (Todos)
+
+https://learn.microsoft.com/es-mx/training/browse/
+
+Lista de cursos y certificaciones disponibles en la plataforma Learn de Microsoft (Estudiantes)
+
+https://learn.microsoft.com/es-mx/training/student-hub/certifications
 
 ## IBM
 
@@ -60,22 +68,53 @@ Desarrolla habilidades que puedas aplicar de inmediato con cursos de aprendizaje
 
 ### Descripción
 
-(Aquí puedes escribir una descripción general del SkillBuilder de Cisco)
+Ya sea que tenga curiosidad por la tecnología o esté listo para desarrollar su carrera, encuentre su opción con cursos sobre temas tecnológicos fundamentales como 
+La seguridad cibernética
+, 
+Redes
+, 
+Pitón
+, y 
+Ciencia de los datos
+.
+
+[https://skillsforall.com/catalog?category=course](https://skillsforall.com/)
 
 ### Cursos y Certificaciones
 
-(Lista de cursos y certificaciones disponibles en el SkillBuilder de Cisco)
+Lista de cursos y certificaciones disponibles en el Skill for All de CISCO
+
+https://skillsforall.com/catalog?category=course
 
 ## Google
 
 ### Descripción
 
-(Aquí puedes escribir una descripción general del SkillBuilder de Google)
+Desarrolla habilidades que puedas aplicar de inmediato con cursos de aprendizaje electrónico diseñados por expertos en productos de Google. Aprenda a su propio ritmo y obtenga la certificación de producto de Google.
+
+https://skillshop.withgoogle.com/
 
 ### Cursos y Certificaciones
 
-(Lista de cursos y certificaciones disponibles en el SkillBuilder de Google)
+Lista de cursos y certificaciones disponibles en el Skill for All de CISCO
+
+https://skillshop.exceedlms.com/student/catalog/list?category_ids=7880-google-activate
+
+## Certiprof
+
+### Descripción
+
+Empoderamos a las personas para superar desafíos, perseguir sus pasiones y abrir puertas a un futuro lleno de oportunidades. Tu transformación comienza aquí con el apoyo de CertiProf.
+
+https://certiprof.com/
+
+### Certificaciones
+
+Lista de certificaciones gratuitas disponibles en Certiprof
+
+https://certiprof.com/pages/free-new-entry-level-certification
 
 ## Referencias
+
 
 (Aquí puedes listar todas las referencias que utilizaste para recopilar la información)
