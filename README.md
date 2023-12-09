@@ -14,7 +14,7 @@ Este repositorio está dedicado a las plataformas de aprendizaje de empresas lí
 
 Además, fomentamos la aplicación práctica de conocimientos a través de proyectos en GitHub para una experiencia completa de aprendizaje.
 
-"La educación es nuestro pasaporte al futuro, porque el mañana pertenece a las personas que se preparan para él hoy." - Malcolm X
+"La educación es nuestro pasaporte al futuro, porque el mañana pertenece a las personas que se preparan para él hoy." - [Malcolm X](https://es.wikipedia.org/wiki/Malcolm_X)
 
 ## Tabla de Contenidos
 
