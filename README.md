@@ -1,4 +1,4 @@
-# FreeSkillBuildersforAll
+# FreeSkillBuldersforAll
 
 **Tu guía para mejorar habilidades técnicas con cursos, certificaciones y medallas gratuitas de Amazon, Microsoft, IBM, Cisco, Google y CertiProf, respaldadas internacionalmente por Credly. ¡Empodérate con el conocimiento!**
 
