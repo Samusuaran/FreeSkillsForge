@@ -1,9 +1,5 @@
 ![Logo]( https://github.com/djsq200599/FreeSkillsForge/blob/main/FreeSkillsForge.png )
 
-# FreeSkillsForge
-
-**Tu guía para mejorar habilidades técnicas con cursos, certificaciones y medallas gratuitas de Amazon, Microsoft, IBM, Cisco, Google y CertiProf, respaldadas internacionalmente por Credly. ¡Empodérate con el conocimiento!**
-
 ## Introducción
 
 ¡Hola a todos! Soy [Daniel Suarez](https://www.credly.com/users/daniel-josue-suarez-quevedo/badges), estudiante de Ingeniería en Informática en Duoc UC y colaborador activo en el Centro de Investigación y Transferencia de Tecnología (CITT).
