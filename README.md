@@ -40,9 +40,11 @@ Además, fomentamos la aplicación práctica de conocimientos a través de proye
 
 ## IBM
 
-**Descripción:** (Aquí puedes escribir una descripción general del SkillBuilder de IBM)
+**Descripción:** Ofrece capacitación digital gratuita en STEM, estudio de informática, cibernética, tecnología de la información y otras ciencias a través de varios cursos.
 
-- [Cursos y Certificaciones](#)
+- [IBM SkillBuild](https://skills.yourlearning.ibm.com/)
+- [Cursos y Certificaciones](https://bundles.yourlearning.ibm.com/skills/learn/#page/VQMMDRZZVEZX255J)
+- [Medallas de Credly](https://www.credly.com/organizations/ibm-skillsbuild/badges)
   
 ## Cisco
 
