@@ -1,5 +1,9 @@
 ![Logo]( https://github.com/djsq200599/FreeSkillsForge/blob/main/FreeSkillsForge.png )
 
+<p align="center">
+  ¡Forja habilidades, libera tu potencial!
+</p>
+
 ## Introducción
 
 ¡Hola a todos! Soy [Daniel Suarez](https://www.credly.com/users/daniel-josue-suarez-quevedo/badges), estudiante de Ingeniería en Informática en Duoc UC y colaborador activo en el Centro de Investigación y Transferencia de Tecnología (CITT).
@@ -10,7 +14,7 @@ Este repositorio está dedicado a las plataformas de aprendizaje de empresas lí
 
 Además, fomentamos la aplicación práctica de conocimientos a través de proyectos en GitHub para una experiencia completa de aprendizaje.
 
-¡Bienvenidos a este viaje de aprendizaje y crecimiento!
+"La educación es nuestro pasaporte al futuro, porque el mañana pertenece a las personas que se preparan para él hoy." - Malcolm X
 
 ## Tabla de Contenidos
 
