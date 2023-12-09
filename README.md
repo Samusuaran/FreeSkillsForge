@@ -1,4 +1,4 @@
-![Logo]( https://github.com/djsq200599/FreeSkillsForge/blob/main/FreeSkillsForge.jpeg )
+![Logo]( https://github.com/djsq200599/FreeSkillsForge/blob/main/FreeSkillsForge.png )
 
 # FreeSkillBuldersforAll
 
