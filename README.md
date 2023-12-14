@@ -30,7 +30,8 @@ Además, fomentamos la aplicación práctica de conocimientos a través de proye
 
 **Descripción:** Ofrece cursos de capacitación de nivel básico y acreditación de todo el portafolio de productos de Oracle.
 
-- [Cursos y Certificaciones](https://education.oracle.com/learning-explorer#startLearning)
+- [Plataforma de Aprendizaje](https://education.oracle.com/learning-explorer#startLearning)
+- [Cursos y Certificaciones](https://education.oracle.com/es/oracle-oci-certification/#oracle-database-management)
 - [Medallas de Credly](https://www.credly.com/organizations/oracle/badges)
 
 ## Amazon
