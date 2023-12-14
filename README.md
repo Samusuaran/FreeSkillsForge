@@ -17,14 +17,21 @@ Además, fomentamos la aplicación práctica de conocimientos a través de proye
 "La educación es nuestro pasaporte al futuro, porque el mañana pertenece a las personas que se preparan para él hoy." - [Malcolm X](https://es.wikipedia.org/wiki/Malcolm_X)
 
 ## Tabla de Contenidos
+1. [Oracle](#Oracle)
+2. [Amazon](#amazon)
+3. [Microsoft](#microsoft)
+4. [IBM](#ibm)
+5. [Cisco](#cisco)
+6. [Google](#google)
+7. [Certiprof](#certiprof)
+8. [Credly](#credly)
 
-1. [Amazon](#amazon)
-2. [Microsoft](#microsoft)
-3. [IBM](#ibm)
-4. [Cisco](#cisco)
-5. [Google](#google)
-6. [Certiprof](#certiprof)
-7. [Credly](#credly)
+## Oracle
+
+**Descripción:** Ofrece cursos de capacitación de nivel básico y acreditación de todo el portafolio de productos de Oracle.
+
+- [Cursos y Certificaciones](https://education.oracle.com/learning-explorer#startLearning)
+- [Medallas de Credly](https://www.credly.com/organizations/oracle/badges)
 
 ## Amazon
 
